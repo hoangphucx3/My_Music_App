@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Lap 6.1 MediaPlayer</string>
+    <string-array name="list_song">
+        <item>mp3_anh_met_roi</item>
+        <item>mp3_de_vuong</item>
+        <item>mp3_dung_hen_kiep_sau</item>
+        <item>mp3_nam_quoc_son_ha</item>
+        <item>mp3_phai_dau_cuoc_tinh</item>
+        <item>mp3_tet_nay_con_se_ve</item>
+        <item>mp3_anh_met_roi</item>
+        <item>mp3_de_vuong</item>
+        <item>mp3_dung_hen_kiep_sau</item>
+        <item>mp3_nam_quoc_son_ha</item>
+        <item>mp3_phai_dau_cuoc_tinh</item>
+        <item>mp3_tet_nay_con_se_ve</item>
+        <item>mp3_anh_met_roi</item>
+        <item>mp3_de_vuong</item>
+        <item>mp3_dung_hen_kiep_sau</item>
+        <item>mp3_nam_quoc_son_ha</item>
+        <item>mp3_phai_dau_cuoc_tinh</item>
+        <item>mp3_tet_nay_con_se_ve</item>
+    </string-array>
+
+    <string-array name="list_song_vn">
+        <item>Anh mệt rồi</item>
+        <item>Đế Vương</item>
+        <item>Đừng hẹn kiếp sau</item>
+        <item>Nam quốc sơn hà</item>
+        <item>Phai dấu cuộc tình</item>
+        <item>Tết này con sẽ về</item>
+        <item>Anh mệt rồi</item>
+        <item>Đế Vương</item>
+        <item>Đừng hẹn kiếp sau</item>
+        <item>Nam quốc sơn hà</item>
+        <item>Phai dấu cuộc tình</item>
+        <item>Tết này con sẽ về</item>
+        <item>Anh mệt rồi</item>
+        <item>Đế Vương</item>
+        <item>Đừng hẹn kiếp sau</item>
+        <item>Nam quốc sơn hà</item>
+        <item>Phai dấu cuộc tình</item>
+        <item>Tết này con sẽ về</item>
+    </string-array>
+</resources>
